@@ -1,4 +1,4 @@
-### Welcome to tldraw, makers of a very good whiteboard
+### Welcome to tldraw
 
 ![a very good whiteboard](https://github.com/tldraw/.github/assets/469604/90f2e065-3d20-46eb-bc8e-5eb0e7934b0e)
 
@@ -9,4 +9,4 @@
 - Come join our community on [Discord](https://discord.com/invite/SBBEVCA4PG)
 - Read our [blog](https://tldraw.substack.com/)
 
-You can also email us: hello@tldraw.com
+Interested in a commercial license for the tldraw SDK? Email us at sales@tldraw.com.
