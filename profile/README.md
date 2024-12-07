@@ -1,7 +1,5 @@
 ### Welcome to tldraw
 
-![a very good whiteboard](https://github.com/tldraw/.github/assets/469604/90f2e065-3d20-46eb-bc8e-5eb0e7934b0e)
-
 - Check out our main repo [tldraw](https://github.com/tldraw/tldraw) (our most popular project with ⭐️31k)
 - Try the flagship demo at [tldraw.com](https://tldraw.com)
 - Read our documentation at [tldraw.dev](https://tldraw.dev)
